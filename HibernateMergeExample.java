@@ -11,7 +11,7 @@ import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 
-import com.ducat.util.HibernateUtil;
+import com.hibercrud.util.HibernateUtil;
 
 
 public class HibernateMergeExample {
