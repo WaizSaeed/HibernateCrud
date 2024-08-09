@@ -1,4 +1,4 @@
-package com.ducat.course;
+package com.hibercrud.course;
 
 import java.util.List;
 import java.util.Iterator;
