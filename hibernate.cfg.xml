@@ -29,7 +29,7 @@
 
 <property name="hibernate.hbm2ddl.auto">update</property>
 
-<mapping resource="com/ducat/course/Course.hbm.xml"/>
+<mapping resource="com/hibercrud/course/Course.hbm.xml"/>
 
 </session-factory>
   	
